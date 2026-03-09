@@ -157,5 +157,3 @@ After adding the Aster skills, start a new session and confirm they appear (e.g.
 - [OpenClaw Getting Started](https://docs.openclaw.ai/start/getting-started) — Full setup and next steps
 
 ---
-
-Built with [Claude Code](https://claude.ai/claude-code)
